@@ -262,6 +262,7 @@ span {
 }
 
 #thumb_preview {
+	display: none;
 	position: absolute;
 	background: rgba(0,0,0,0.9);
 	z-index: 100;
